@@ -9,12 +9,12 @@ Here you'll find code I've showcased.
 ## Languages I know
 ---
 
-![alt text][1.1][1]
-![alt text][2.1][2]
-![alt text][3.1][3]
-![alt text][4.1][4]
-![alt text][5.1][5]
-![alt text][6.1][6]
+![alt text][1.1]
+![alt text][2.1]
+![alt text][3.1]
+![alt text][4.1]
+![alt text][5.1]
+![alt text][6.1]
 
 [1.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png 
 [2.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png 
