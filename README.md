@@ -1,20 +1,20 @@
 # Hi there, I'm Aaron!
-Here you'll find code I've showcased.
+######Here you'll find code I've showcased.
  
 ## About Me
 * Working towards my B.S. in Computer Science - Game Simulation & Programming (graduating 2023)
 * Love to develop games and dream about making my own personal game engine
 * Available for work! 
 
-## Languages I know:
+## Languages I've learned:
 ---
 
-![alt text][1.1]
-![alt text][2.1]
-![alt text][3.1]
-![alt text][4.1]
-![alt text][5.1]
-![alt text][6.1]
+![c][1.1]
+![c++][2.1]
+![c#][3.1]
+![html][4.1]
+![css][5.1]
+![python][6.1]
 
 [1.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png 
 [2.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png 
@@ -28,13 +28,13 @@ Here you'll find code I've showcased.
 ## Tools I use:
 ---
 
-![alt text][1.2]
-![alt text][2.2]
-![alt text][3.2]
-![alt text][4.2]
-![alt text][5.2]
-![alt text][6.2]
-![alt text][7.2]
+![illustrator][1.2]
+![photoshop][2.2]
+![blender][3.2]
+![unity][4.2]
+![visual studio][5.2]
+![audacity][6.2]
+![fl studio][7.2]
 
 [1.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ai.png
 [2.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ps.png
@@ -45,6 +45,33 @@ Here you'll find code I've showcased.
 [7.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/fl.png
 
 ---
+
+## Stay in touch:
+---
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.3]][1]
+[![alt text][2.3]][2]
+[![alt text][3.3]][3]
+[![alt text][4.3]][4]
+[![alt text][5.3]][5]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.3]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
+
+[1]: https://twitter.com/aaronmfrost
+
+---
+
+
 
 
 
