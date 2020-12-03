@@ -23,7 +23,6 @@
 [5.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png 
 [6.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png 
 
----
 
 ## Tools I use:
 ---
