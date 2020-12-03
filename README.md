@@ -8,7 +8,7 @@ Here you'll find code I've showcased.
 
 ## Languages I know
 ---
-![C icon](https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png) ![C++ Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png) ![C# Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png) ![HTML Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/html.png) ![CSS Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png) ![Python Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png)
+[![C icon](https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png)] [![C++ Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png)] [![C# Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png)] [![HTML Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/html.png)] [![CSS Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png)] [![Python Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png)]
 ---
 
 
