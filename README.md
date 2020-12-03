@@ -1,5 +1,5 @@
 # Hi there, I'm Aaron!
-######Here you'll find code I've showcased.
+###### Here you'll find code I've showcased.
  
 ## About Me
 * Working towards my B.S. in Computer Science - Game Simulation & Programming (graduating 2023)
@@ -52,11 +52,6 @@
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.3]][1]
-[![alt text][2.3]][2]
-[![alt text][3.3]][3]
-[![alt text][4.3]][4]
-[![alt text][5.3]][5]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
