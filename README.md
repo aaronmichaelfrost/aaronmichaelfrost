@@ -47,7 +47,6 @@
 ---
 
 ## Stay in touch:
----
 
 <!-- display the social media buttons in your README -->
 
@@ -64,7 +63,7 @@
 
 [1]: https://twitter.com/aaronmfrost
 
----
+
 
 
 
