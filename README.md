@@ -26,16 +26,16 @@
 ## Tools I use:
 
 ![unity][4.2]
-![visual studio][5.2]
 ![blender][3.2]
+![visual studio][5.2]
 ![illustrator][1.2]
 ![photoshop][2.2]
 ![audacity][6.2]
 ![fl studio][7.2]
 
 [4.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/un.png 
-[5.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/vs.png
 [3.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/blend.png
+[5.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/vs.png
 [1.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ai.png
 [2.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ps.png
 [6.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/aud.png
