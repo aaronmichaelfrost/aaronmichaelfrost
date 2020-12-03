@@ -8,7 +8,19 @@ Here you'll find code I've showcased.
 
 ## Languages I know
 ---
-[![C icon](https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png)] [![C++ Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png)] [![C# Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png)] [![HTML Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/html.png)] [![CSS Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png)] [![Python Icon] (https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png)]
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+[1.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png 
+[2.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%2B%2B.png 
+[3.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/c%23.png 
+[4.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/html.png 
+[5.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png 
+[6.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png 
 ---
 
 
