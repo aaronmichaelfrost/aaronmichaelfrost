@@ -7,7 +7,6 @@
 * Available for work! 
 
 ## Languages I've learned:
----
 
 ![c][1.1]
 ![c++][2.1]
@@ -25,7 +24,6 @@
 
 
 ## Tools I use:
----
 
 ![illustrator][1.2]
 ![photoshop][2.2]
