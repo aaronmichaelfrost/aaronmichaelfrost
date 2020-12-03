@@ -1,5 +1,5 @@
 # Hi there, I'm Aaron!
-###### Here you'll find code I've showcased.
+#### Here you'll find code I've showcased.
  
 ## About Me
 * Working towards my B.S. in Computer Science - Game Simulation & Programming (graduating 2023)
@@ -44,7 +44,6 @@
 [6.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/aud.png
 [7.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/fl.png
 
----
 
 ## Stay in touch:
 
