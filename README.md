@@ -25,18 +25,17 @@
 
 ## Tools I use:
 
-![blender][3.2]
 ![unity][4.2]
 ![visual studio][5.2]
+![blender][3.2]
 ![illustrator][1.2]
 ![photoshop][2.2]
 ![audacity][6.2]
 ![fl studio][7.2]
 
-
-[3.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/blend.png
 [4.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/un.png 
 [5.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/vs.png
+[3.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/blend.png
 [1.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ai.png
 [2.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ps.png
 [6.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/aud.png
@@ -45,17 +44,9 @@
 
 ## Stay in touch:
 
-<!-- display the social media buttons in your README -->
-
 [![alt text][1.3]][1]
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
 [1.3]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
 
 
 [1]: https://twitter.com/aaronmfrost
