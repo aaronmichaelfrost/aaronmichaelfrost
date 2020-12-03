@@ -1,4 +1,4 @@
-# Hi, I'm Aaron!
+# Hi there, I'm Aaron!
 Here you'll find code I've showcased.
  
 ## About Me
@@ -6,7 +6,7 @@ Here you'll find code I've showcased.
 * Love to develop games and dream about making my own personal game engine
 * Available for work! 
 
-## Languages I know
+## Languages I know:
 ---
 
 ![alt text][1.1]
@@ -22,7 +22,27 @@ Here you'll find code I've showcased.
 [4.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/html.png 
 [5.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/css.png 
 [6.1]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/languages/py.png 
+
 ---
+
+## Tools I use:
+---
+
+![alt text][1.2]
+![alt text][2.2]
+![alt text][3.2]
+![alt text][4.2]
+![alt text][5.2]
+![alt text][6.2]
+![alt text][7.2]
+
+[1.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ai.png
+[2.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/ps.png
+[3.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/blend.png
+[4.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/un.png 
+[5.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/vs.png
+[6.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/aud.png
+[7.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/fl.png
 
 
 
