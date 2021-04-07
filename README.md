@@ -3,8 +3,7 @@
  
 ## About Me
 * Working towards my B.S. in Computer Science - Game Simulation & Programming (graduating 2023)
-* Love to develop games and dream about making my own personal game engine
-* Available for work! 
+* My favorite languages are C# and C++
 
 ## Languages I've learned:
 
