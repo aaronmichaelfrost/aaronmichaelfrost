@@ -5,11 +5,11 @@
 * Working towards my B.S. in Computer Science (graduating 2023)
 * My favorite languages are C# and C++
 
-## Languages I've learned:
+## My Favorites:
 
-![c][1.1]
-![c++][2.1]
 ![c#][3.1]
+![c++][2.1]
+![c][1.1]
 ![html][4.1]
 ![css][5.1]
 ![python][6.1]
