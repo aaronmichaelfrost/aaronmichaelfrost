@@ -2,7 +2,7 @@
 #### Here you'll find code I've showcased.
  
 ## About Me
-* Working towards my B.S. in Computer Science - Game Simulation & Programming (graduating 2023)
+* Working towards my B.S. in Computer Science (graduating 2023)
 * My favorite languages are C# and C++
 
 ## Languages I've learned:
