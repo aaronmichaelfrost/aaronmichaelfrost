@@ -1,5 +1,4 @@
 # Hi there, I'm Aaron!
-#### Here you'll find code I've showcased.
  
 ## About Me
 * Working towards my B.S. in Computer Science (graduating 2023)
