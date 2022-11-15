@@ -40,16 +40,6 @@
 [7.2]: https://github.com/aaronmichaelfrost/aaronmichaelfrost/blob/main/icons/tools/fl.png
 
 
-## Stay in touch:
-
-[![alt text][1.3]][1]
-
-[1.3]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-
-[1]: https://twitter.com/aaronmfrost
-
-
 
 
 
