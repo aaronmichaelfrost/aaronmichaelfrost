@@ -5,6 +5,4 @@
 <a href="https://linkedin.com/in/aaron-michael-frost" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
 
- 
-## About Me <p align="left"> 
-* SWE at Microsoft | Activision | Blizzard 
+ SWE at Microsoft | Activision | Blizzard 
